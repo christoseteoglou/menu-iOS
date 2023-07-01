@@ -13,6 +13,7 @@
 		B41BF9772A4D648000C9621D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B41BF9762A4D648000C9621D /* Preview Assets.xcassets */; };
 		B41BF97E2A4D68A500C9621D /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41BF97D2A4D68A500C9621D /* MenuItem.swift */; };
 		B44F5FB42A4EC25200CC6E4D /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44F5FB32A4EC25200CC6E4D /* DataService.swift */; };
+		B44F5FB62A4ECD1600CC6E4D /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44F5FB52A4ECD1600CC6E4D /* MenuListRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B41BF9762A4D648000C9621D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B41BF97D2A4D68A500C9621D /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		B44F5FB32A4EC25200CC6E4D /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		B44F5FB52A4ECD1600CC6E4D /* MenuListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				B41BF96F2A4D647E00C9621D /* MenuApp.swift */,
 				B41BF9712A4D647E00C9621D /* MenuView.swift */,
+				B44F5FB52A4ECD1600CC6E4D /* MenuListRow.swift */,
 				B41BF97D2A4D68A500C9621D /* MenuItem.swift */,
 				B44F5FB32A4EC25200CC6E4D /* DataService.swift */,
 				B41BF9732A4D648000C9621D /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				B41BF97E2A4D68A500C9621D /* MenuItem.swift in Sources */,
 				B41BF9722A4D647E00C9621D /* MenuView.swift in Sources */,
 				B41BF9702A4D647E00C9621D /* MenuApp.swift in Sources */,
+				B44F5FB62A4ECD1600CC6E4D /* MenuListRow.swift in Sources */,
 				B44F5FB42A4EC25200CC6E4D /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
